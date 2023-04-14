@@ -522,6 +522,33 @@ width:40vw;
     } */
 }
 
+.l-label:link{
+    text-decoration: none;
+    text-align: center;
+    text-shadow: black;
+    text-decoration-style: solid;
+    color:#2857a4; 
+    margin: 4px 0px; 
+    margin-bottom: 10px;
+    padding-left: 40px;
+ 
+
+}
+
+.l-label:visited{
+    text-decoration: none;
+}
+
+.l-label:hover {
+
+    text-align: center;
+    color: #ec4d1c;
+  }
+  
+.l-label:active {
+    text-decoration: underline;
+  }
+
 
 
 
